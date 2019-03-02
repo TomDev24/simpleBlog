@@ -1,0 +1,17 @@
+.editor{
+  text-align: center;
+}
+
+#post-name{
+  display: block;
+  margin: 1em auto;
+}
+
+#post{
+  margin: 2em auto;
+  display: block;
+}
+
+#btn{
+
+}
