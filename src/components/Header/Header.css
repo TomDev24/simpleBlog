@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding:0;
+}
+
+.logo{
+  text-align: center;
+  background-color: #716231;
+  font-family: 'PT Serif', serif;
+  color:white;
+  padding: 20px;
+  position: sticky;
+  top:0;
+  z-index:10;
+}

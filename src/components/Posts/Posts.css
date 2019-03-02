@@ -1,0 +1,21 @@
+.post-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.post{
+  width:450px;
+  min-height:280px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid grey;
+}
+
+.post h1{
+  text-align: center;
+}
+
+.post p{
+  text-align: left;
+}
